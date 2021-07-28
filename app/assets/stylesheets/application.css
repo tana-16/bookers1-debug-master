@@ -79,3 +79,7 @@ label {
   background-color: red;
   display: table;
 }
+
+.alert{
+  color: green;
+}
